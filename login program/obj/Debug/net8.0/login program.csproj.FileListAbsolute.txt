@@ -1,0 +1,14 @@
+C:\Users\ATC\source\repos\login program\bin\Debug\net8.0\login program.exe
+C:\Users\ATC\source\repos\login program\bin\Debug\net8.0\login program.deps.json
+C:\Users\ATC\source\repos\login program\bin\Debug\net8.0\login program.runtimeconfig.json
+C:\Users\ATC\source\repos\login program\bin\Debug\net8.0\login program.dll
+C:\Users\ATC\source\repos\login program\bin\Debug\net8.0\login program.pdb
+C:\Users\ATC\source\repos\login program\obj\Debug\net8.0\login program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATC\source\repos\login program\obj\Debug\net8.0\login program.AssemblyInfoInputs.cache
+C:\Users\ATC\source\repos\login program\obj\Debug\net8.0\login program.AssemblyInfo.cs
+C:\Users\ATC\source\repos\login program\obj\Debug\net8.0\login program.csproj.CoreCompileInputs.cache
+C:\Users\ATC\source\repos\login program\obj\Debug\net8.0\login program.dll
+C:\Users\ATC\source\repos\login program\obj\Debug\net8.0\refint\login program.dll
+C:\Users\ATC\source\repos\login program\obj\Debug\net8.0\login program.pdb
+C:\Users\ATC\source\repos\login program\obj\Debug\net8.0\login program.genruntimeconfig.cache
+C:\Users\ATC\source\repos\login program\obj\Debug\net8.0\ref\login program.dll
