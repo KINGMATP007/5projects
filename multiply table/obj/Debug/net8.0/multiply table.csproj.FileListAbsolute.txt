@@ -1,0 +1,14 @@
+C:\Users\ATC\source\repos\multiply table\bin\Debug\net8.0\multiply table.exe
+C:\Users\ATC\source\repos\multiply table\bin\Debug\net8.0\multiply table.deps.json
+C:\Users\ATC\source\repos\multiply table\bin\Debug\net8.0\multiply table.runtimeconfig.json
+C:\Users\ATC\source\repos\multiply table\bin\Debug\net8.0\multiply table.dll
+C:\Users\ATC\source\repos\multiply table\bin\Debug\net8.0\multiply table.pdb
+C:\Users\ATC\source\repos\multiply table\obj\Debug\net8.0\multiply table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATC\source\repos\multiply table\obj\Debug\net8.0\multiply table.AssemblyInfoInputs.cache
+C:\Users\ATC\source\repos\multiply table\obj\Debug\net8.0\multiply table.AssemblyInfo.cs
+C:\Users\ATC\source\repos\multiply table\obj\Debug\net8.0\multiply table.csproj.CoreCompileInputs.cache
+C:\Users\ATC\source\repos\multiply table\obj\Debug\net8.0\multiply table.dll
+C:\Users\ATC\source\repos\multiply table\obj\Debug\net8.0\refint\multiply table.dll
+C:\Users\ATC\source\repos\multiply table\obj\Debug\net8.0\multiply table.pdb
+C:\Users\ATC\source\repos\multiply table\obj\Debug\net8.0\multiply table.genruntimeconfig.cache
+C:\Users\ATC\source\repos\multiply table\obj\Debug\net8.0\ref\multiply table.dll
